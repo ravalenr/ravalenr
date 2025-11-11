@@ -78,7 +78,7 @@ const rafael = {
     currentFocus: ["Python", "React", "TypeScript", "Django"],
     expertise: ["Java", "JavaScript", "HTML/CSS", "Spring Boot"],
     interests: ["Full Stack Development", "Cloud Technologies", "DevOps"],
-    funFact: "I use my curiosity as fuel to build great stuff! 🚀"
+    funFact: "I use my curiosity as fuel to build great stuff!�"
 };
 ```
 

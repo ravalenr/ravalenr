@@ -11,7 +11,7 @@
 I'm a passionate **Software Engineering student** finishing my **Higher Diploma in Computing**, aiming for **First Class Honours**! I love building innovative solutions and exploring new technologies.
 
 - 🔭 Currently working on **[the-traitors-game](https://github.com/ravalenr/the-traitors-game)** - A multiplayer web game (open to collaborations!)
-- 💼 Professionally developing an **e-commerce platform** for Multi Store Ltda, an electronics shop in São Paulo, Brazil
+- 💼 Professionally developing an **e-commerce platform** for Multi Loja Ltda, an electronics shop in São Paulo, Brazil
 - 🌱 Learning: **Python, React, TypeScript, Django**
 - 🎯 Goal: Become a great software developer and use my curiosity to develop innovative tech
 - 💡 Dream: Develop new technologies and improve existing ones
